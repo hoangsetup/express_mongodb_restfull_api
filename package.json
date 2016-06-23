@@ -1,0 +1,33 @@
+{
+  "name": "express-mongoDB-RESTfull-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tolgaek/express-restful-api.git"
+  },
+  "bugs": {},
+  "homepage": "",
+  "keywords": [],
+  "author": "hoangdv",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.0.0-rc.6",
+    "body-parser": "^1.15.1",
+    "change-case": "^3.0.0",
+    "crypto": "0.0.3",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^7.0.1",
+    "mongoose": "^4.5.0",
+    "morgan": "^1.7.0",
+    "nconf": "^0.8.4",
+    "require-dir": "^0.3.0",
+    "underscore": "^1.8.3",
+    "winston": "^2.2.0"
+  }
+}
